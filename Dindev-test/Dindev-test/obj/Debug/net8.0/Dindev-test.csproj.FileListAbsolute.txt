@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\Dindev-test\Dindev-test\bin\Debug\net8.0\Dindev-test.exe
+C:\Users\Administrator\source\repos\Dindev-test\Dindev-test\bin\Debug\net8.0\Dindev-test.deps.json
+C:\Users\Administrator\source\repos\Dindev-test\Dindev-test\bin\Debug\net8.0\Dindev-test.runtimeconfig.json
+C:\Users\Administrator\source\repos\Dindev-test\Dindev-test\bin\Debug\net8.0\Dindev-test.dll
+C:\Users\Administrator\source\repos\Dindev-test\Dindev-test\bin\Debug\net8.0\Dindev-test.pdb
+C:\Users\Administrator\source\repos\Dindev-test\Dindev-test\obj\Debug\net8.0\Dindev-test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Dindev-test\Dindev-test\obj\Debug\net8.0\Dindev-test.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Dindev-test\Dindev-test\obj\Debug\net8.0\Dindev-test.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Dindev-test\Dindev-test\obj\Debug\net8.0\Dindev-test.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Dindev-test\Dindev-test\obj\Debug\net8.0\Dindev-test.dll
+C:\Users\Administrator\source\repos\Dindev-test\Dindev-test\obj\Debug\net8.0\refint\Dindev-test.dll
+C:\Users\Administrator\source\repos\Dindev-test\Dindev-test\obj\Debug\net8.0\Dindev-test.pdb
+C:\Users\Administrator\source\repos\Dindev-test\Dindev-test\obj\Debug\net8.0\Dindev-test.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\Dindev-test\Dindev-test\obj\Debug\net8.0\ref\Dindev-test.dll
